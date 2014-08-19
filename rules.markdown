@@ -697,8 +697,15 @@ RULES OF ASSOCIATION
     whatsoever, the same must not be paid to or distributed among the
     members, or former members. The surplus property must be given or
     transferred to another association incorporated under the Act which has
-    similar objects and which is not carried out for the purposes of profit
-    or gain to its individual members, and which association shall be
-    determined by resolution of the members.  
+    a similar charitable purpose and to which income tax deductible gifts can
+    be made as approved by the Commissioner of Taxation and which association
+    shall be determined by resolution of the members.
 
-
+## Revocation of Deductible Goods Recipient endorsement ##
+26. If at any time the Association has its Deductible Goods Recipient
+    endorsement revoked, any surplus gifts, deductible contributions, and
+    related money must be given or transferred to another association
+    incorporated under the Act which has a similar charitable purpose and to
+    which income tax deductible gifts can be made as approved by the
+    Commissioner of Taxation and which association shall be determined by
+    resolution of the members.
