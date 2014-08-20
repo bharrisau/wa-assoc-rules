@@ -123,7 +123,8 @@ RULES OF ASSOCIATION
             contravene this Act or the rules of the Association.
 
 ## Qualifications for membership of Association ##
-5.  (1) Membership of the Association is open to TODO.
+5.  (1) Membership of the Association is open to any person who supports the
+        purposes of the Association.
     (2) A person who wishes to become a member must-
         (a) apply for membership to the Committee in writing-
             (i) signed by that person and by both of the members referred to
@@ -232,7 +233,7 @@ RULES OF ASSOCIATION
             (b) a Vice-Chairperson;
             (c) a Secretary;
             (d) a Treasurer; and
-            (e) not less than TODO other persons, all of whom must be members
+            (e) not less than 1 other persons, all of whom must be members
                 of the Association.
     (2) Committee members must be elected to membership of the Committee at an
         annual general meeting or appointed under sub-rule (8).
@@ -405,7 +406,7 @@ RULES OF ASSOCIATION
 
 ## Proceedings of Committee ##
 15. (1) The Committee must meet together for the dispatch of business not less
-        than TODO in each year and the Chairperson, or at least half the
+        than twice in each year and the Chairperson, or at least half the
         members of the Committee, may at any time convene a meeting of the
         Committee.
     (2) Each Committee member has a deliberative vote.
@@ -413,7 +414,8 @@ RULES OF ASSOCIATION
         majority of votes, but, if there no majority, the person presiding at
         the Committee meeting will have a casting vote in addition to his or
         her deliberative vote.
-    (4) At a Committee meeting TODO Committee members constitute a quorum.
+    (4) At a Committee meeting, absence of no more than two Committee members
+        constitute a quorum.
     (5) Subject to these rules, the procedure and order of business to be
         followed at a Committee meeting must be determined by the Committee
         members present at the Committee meeting.
@@ -447,8 +449,8 @@ RULES OF ASSOCIATION
             within 18 months after incorporation; and
         (c) must, within 30 days of-
             (i) receiving a request in writing to do so from not less than
-                TODO members, convene a special general meeting for the
-                purpose specified in that request; or
+                10% of the members entitled to vote, convene a special
+                general meeting for the purpose specified in that request; or
             (ii) the Secretary receiving a notice under rule 9 (4), convene a
                 general meeting to deal with the appeal to which that notice
                 relates.
@@ -512,8 +514,8 @@ RULES OF ASSOCIATION
         prepaid mail. 
 
 ## Quorum and proceedings at general meetings ##
-17. (1) At a general meeting TODO members present in person constitute a
-        quorum.
+17. (1) At a general meeting the presence, in person, of at least 10% of the
+        members entitled to vote constitutes a quorum.
     (2) If within 30 minutes after the time specified for the holding of a
         general meeting in a notice given under rule 16 (5) or (6)-
             (a) as a result of a request or notice referred to in
