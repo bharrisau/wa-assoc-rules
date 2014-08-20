@@ -6,6 +6,9 @@ RULES OF ASSOCIATION
 
 ## Definitions ##
 2. In these rules, unless the contrary intention appears-
+
+    "associate member" has the meaning given in rule 27 (1);
+
     “annual general meeting” is the meeting convened under paragraph (b) of
     rule 16 (1);
 
@@ -714,3 +717,14 @@ RULES OF ASSOCIATION
     which income tax deductible gifts can be made as approved by the
     Commissioner of Taxation and which association shall be determined by
     resolution of the members.
+
+
+## Associate members ##
+27. (1) An associate member is a person who has applied for associate
+        membership in such form as the Committee from time to time directs.
+    (2) An associate member must not vote, but may have other rights as
+        determined by the Committee or by resolution at a general meeting.
+    (3) An associate membership may be terminated upon-
+        (a) notification by the associate member to a member of the Committee
+            of the intention to terminate; or
+        (b) expulsion of the associate member by the Committee.
