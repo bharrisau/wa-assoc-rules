@@ -367,7 +367,8 @@ RULES OF ASSOCIATION
                 true and fair accounts of the Association to be prepared from
                 time to time; 
             (iii) keeping its accounting records in such manner as will enable
-                true and fair accounts of the Association to be conveniently and properly audited; and
+                true and fair accounts of the Association to be conveniently
+                and properly audited; and
             (iv) submitting to members at each annual general meeting of the
                 Association accounts of the Association showing the financial
                 position of the Association at the end of the immediately
@@ -649,7 +650,9 @@ RULES OF ASSOCIATION
 
 ## Inspection of records, etc. of Association ##
 23.  A member may at any reasonable time inspect without charge the books,
-    documents, records and securities of the Association.
+    documents, records and securities of the Association, except for those
+    that the Committee reasonably decides are sensitive for one reason or
+    another.
 
 ## Disputes and mediation ##
 24. (1) The grievance procedure set out in this rule applies to disputes
